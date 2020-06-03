@@ -2,7 +2,7 @@ export default
 [
   {
    "id": 1,
-    "title": "Avatar",
+    "title": "English",
     "distributor": "20th Century Fox",
     "year": 2009,
     "amount": "$2,787,965,087",
@@ -14,7 +14,7 @@ export default
   },
   {
     "id": 2,
-    "title": "Titanic",
+    "title": "Math",
     "distributor": "20th Century Fox",
     "year": 1997,
     "amount": "$2,187,463,944",
@@ -26,7 +26,7 @@ export default
   },
   {
     "id": 3,
-    "title": "Star Wars: The Force Awakens",
+    "title": "History",
     "distributor": "Walt Disney Studios Motion Pictures",
     "year": 2015,
     "amount": "$2,068,223,624",
@@ -38,7 +38,7 @@ export default
   },
   {
     "id": 4,
-    "title": "Avengers: Infinity War",
+    "title": "Economics",
     "distributor": "Walt Disney Studios Motion Pictures",
     "year": 2018,
     "amount": "$2,048,359,754",
@@ -50,7 +50,7 @@ export default
   },
   {
     "id": 5,
-    "title": "Jurassic World",
+    "title": "Gym Class",
     "distributor": "Universal Pictures",
     "year": 2015,
     "amount": "$1,671,713,208",
